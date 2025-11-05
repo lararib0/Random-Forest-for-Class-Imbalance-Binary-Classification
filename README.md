@@ -16,4 +16,4 @@ The project involves understanding the internal workings of Random Forest, desig
 ## Authors:
 - Benedita Marques
 - Lara Ribeiro
-- Mariana Pinho
+-  Mariana Pinho
